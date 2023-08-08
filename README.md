@@ -6,7 +6,7 @@ This dataset contains images of the CNR-STIIMA ReDeManufacturing Lab:
 
 
 ## Real Data
-Real data are provided in terms of six different datasets, **DR0** and **DR1**.
+Real data are provided in terms of two different datasets, **[DR0](RealData/DR0/)** and **[DR1](RealData/DR1/)**.
 
 
 ## Synthetic Data
